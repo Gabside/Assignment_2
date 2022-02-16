@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: aqua;
+}
+
+ol {
+    color: rgb(39, 129, 21);
+}
+
+#myID {
+    color: rgb(25, 71, 114);
+    text-align: center;
+}
